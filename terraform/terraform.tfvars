@@ -1,5 +1,5 @@
 # Replace with your SSH key name
-key_name = "kenny-rails-ec2" 
+key_name = "kenny-keypairs" 
 
 # Optionally override these defaults
 # instance_type = "t2.large"  # Default is t2.medium

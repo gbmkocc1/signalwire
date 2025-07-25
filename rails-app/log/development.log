@@ -39149,3 +39149,1594 @@ Processing by MetricsController#index as HTML
 Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
 
 
+Prometheus metrics are disabled in this demo
+Prometheus metrics are disabled in this demo
+Started GET "/metrics" for 172.19.0.4 at 2025-07-25 09:50:19 +0000
+  [1m[35m (71.6ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (73.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 22ms (Views: 21.5ms | ActiveRecord: 0.0ms | Allocations: 2673)
+
+
+Started GET "/metrics" for 172.19.0.4 at 2025-07-25 09:50:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Prometheus metrics are disabled in this demo
+  [1m[36mActiveRecord::SchemaMigration Load (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Prometheus metrics are disabled in this demo
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:50:54 +0000
+  [1m[36mActiveRecord::SchemaMigration Load (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 4)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 1480)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:50:59 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:03 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:08 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:13 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 25ms (Views: 23.9ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:18 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 1.2ms | Allocations: 1)
+Completed 200 OK in 46ms (Views: 44.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:28 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:32 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:37 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:42 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:47 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:52 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:51:57 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:01 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:06 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:11 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:16 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:21 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:26 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:30 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:35 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:45 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.7ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:55 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:52:59 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:04 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:09 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:14 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:19 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:24 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:28 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:33 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:38 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:43 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:48 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:53 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:53:57 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:02 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:07 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:12 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:17 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:22 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:25 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:30 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:35 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:45 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:54 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:54:59 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:04 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:09 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 11.3ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:14 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:19 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.0ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:28 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.5ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:33 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:38 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:43 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:48 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:52 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:55:57 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:02 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:07 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:12 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:17 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:21 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 142)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:26 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 145)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:31 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:36 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:41 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 145)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:46 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:56:55 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:00 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:05 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:10 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:15 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:19 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:24 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:29 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:34 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:39 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:44 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:48 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:53 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:57:58 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 5.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:03 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:08 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:13 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 13ms (Views: 8.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:17 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:22 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:27 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:32 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 5.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:37 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:42 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:46 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:51 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:58:56 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:01 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:06 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 6ms (Views: 4.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:11 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:15 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:20 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 10.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:25 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 4.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:30 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:35 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.4ms | Allocations: 1)
+Completed 200 OK in 28ms (Views: 27.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:43 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:48 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:53 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 09:59:58 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:03 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:08 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 13ms (Views: 11.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:13 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.2ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:18 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:28 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:33 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:38 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:42 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:47 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:52 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:00:57 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:02 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:07 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:11 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:16 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:21 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:26 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:31 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:36 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:45 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:01:55 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:00 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:05 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:08 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:13 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 18ms (Views: 16.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:18 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:28 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:33 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:37 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:42 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:47 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:52 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 7.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:02:57 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:02 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:06 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.4ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:11 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:16 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:21 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:26 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.3ms | Allocations: 1)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms | Allocations: 145)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:31 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:35 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.0ms | Allocations: 144)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:45 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 1.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:03:55 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:00 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 8ms (Views: 6.9ms | ActiveRecord: 0.0ms | Allocations: 144)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:04 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:09 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:14 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:19 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:24 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:29 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:33 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:38 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:43 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 6ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:48 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:53 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:04:58 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:02 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:07 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.3ms | Allocations: 1)
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:12 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:17 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:22 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:27 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 2.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:31 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:36 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:41 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 12ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:46 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:51 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:05:56 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 7.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:00 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:05 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.8ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:10 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:15 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:20 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:25 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 10ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:29 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:34 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:39 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.3ms | Allocations: 1)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:44 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 10.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:49 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 10ms (Views: 7.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:54 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 4.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:06:58 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.4ms | Allocations: 1)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:03 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:08 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:13 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 8.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:18 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:23 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:27 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 8ms (Views: 7.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:32 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:37 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:42 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms | Allocations: 144)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:47 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:52 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:07:56 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:01 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:06 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 2ms (Views: 1.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:11 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:16 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:21 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:25 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:30 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 9ms (Views: 8.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:35 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:40 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 1)
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:45 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 10ms (Views: 8.5ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+
+Started GET "/metrics" for 172.19.0.2 at 2025-07-25 10:08:50 +0000
+Processing by MetricsController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.1ms | Allocations: 1)
+Completed 200 OK in 11ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 143)
+
+

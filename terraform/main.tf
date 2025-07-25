@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "eu-west-2"
+  region = "us-east-1"
 }
 
 # Create a VPC
@@ -26,7 +26,7 @@ resource "aws_internet_gateway" "rails_igw" {
 resource "aws_subnet" "public_subnet" {
   vpc_id                  = aws_vpc.rails_vpc.id
   cidr_block              = "10.0.1.0/24"
-  availability_zone       = "eu-west-2a"
+  availability_zone       = "us-east-1a"
   map_public_ip_on_launch = true
 
   tags = {
